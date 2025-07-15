@@ -16,6 +16,13 @@ A visual crypto dashboard built for Chainlink's Chromion hackathon, expanding on
 A simple crypto dashboard that displays token prices using CoinGecko.
 Built as a focused frontend showcase with React and Emotion.
 
+### 📘 [Narrative API](https://github.com/DinosaurDerek/narrative-api) *(Demo)*  
+A backend API demo that aggregates topic summaries from mock crypto sources (Farcaster, CoinDesk, Decrypt).  
+- Built with Fastify, TypeScript, and TypeBox  
+- Demonstrates modular API structure, schema validation, testing, and structured logging
+- Includes auto-generated Swagger docs
+- Builds on [Fact Check API](https://github.com/DinosaurDerek/fact-check-api) with improved logic, structure, and tests
+
 ### 🧪 [Wallet Tracker](https://github.com/DinosaurDerek/wallet-tracker) *(Experiment)*  
 A quick experiment tracking token balances via Web3 wallet integration.
 Explores EVM chain compatibility and user wallet connections using RainbowKit, Wagmi, and Viem.
