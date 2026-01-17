@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Derek
 
-I'm a senior software developer based in Canada with nearly 10 years of experience building web applications in startup and SaaS environments. I bring a strong foundation in frontend development, especially with React, and have spent much of my career working full stack on backend systems using Laravel and Django. Recently, I've been expanding into Node.js and building small Web3 projects.
+I'm a software developer based in Canada with around 10 years of experience building web applications in startup and SaaS environments. I bring a strong foundation in frontend development, especially with React, and have spent much of my career working full stack on backend systems using Laravel and Django. More recently, I've been expanding into Node.js and building small Web3 projects.
 
 ---
 
