@@ -1,16 +1,10 @@
 ## 👋 Hey, I'm Derek
 
-I'm a software developer based in Canada with around 10 years of experience building web applications in startup and SaaS environments. I bring a strong foundation in frontend development, especially with React, and have spent much of my career working full stack on backend systems using Laravel and Django. More recently, I've been expanding into Node.js and building small Web3 projects.
+Full-stack developer based in Canada with around 10 years building production web applications. Strong in React/TypeScript on the frontend with solid backend experience in Python/Django, Node, and Laravel. I work AI-natively in my development workflow and have explored Web3 through smaller projects.
 
 ---
 
 ## 🔧 Projects
-
-### 🚀 [Rocketlink](https://github.com/DinosaurDerek/rocketlink)
-A visual crypto dashboard built for Chainlink's [Chromion](https://chain.link/hackathon) hackathon and expanding on [Token Dash](https://github.com/DinosaurDerek/token-dash).
-- Displays real-time and historical token prices using Chainlink and CoinGecko
-- Uses Chainlink Automation to trigger smart-contract updates on Avalanche Fuji
-- Built with Next.js, Solidity, Ethers.js
 
 ### 📘 [Narrative API](https://github.com/DinosaurDerek/narrative-api) 
 A backend API that aggregates topic summaries from mock crypto sources (Farcaster, CoinDesk, Decrypt).
@@ -18,6 +12,16 @@ A backend API that aggregates topic summaries from mock crypto sources (Farcaste
 - Demonstrates modular API structure, schema validation, endpoint tests (Vitest), database integration, and structured logging
 - Includes auto-generated Swagger docs for developer usability
 - Builds on [Fact Check API](https://github.com/DinosaurDerek/fact-check-api) for initial project setup
+
+### 🚀 [Rocketlink](https://github.com/DinosaurDerek/rocketlink)
+A visual crypto dashboard built for Chainlink's [Chromion](https://chain.link/hackathon) hackathon and expanding on [Token Dash](https://github.com/DinosaurDerek/token-dash).
+- Displays real-time and historical token prices using Chainlink and CoinGecko
+- Uses Chainlink Automation to trigger smart-contract updates on Avalanche Fuji
+- Built with Next.js, Solidity, Ethers.js
+
+### 🌟 [Token Dash](https://github.com/DinosaurDerek/token-dash)  
+A simple crypto dashboard that displays token prices using CoinGecko.
+Built as a focused frontend showcase with React and Emotion.
 
 ### 🔗 [Bitcoin UTXO Demo](https://github.com/DinosaurDerek/bitcoin-utxo-demo)
 A Node.js demo exploring the Bitcoin UTXO model and RPC-based blockchain interaction.
@@ -27,12 +31,8 @@ A Node.js demo exploring the Bitcoin UTXO model and RPC-based blockchain interac
 - Demonstrates how the UTXO model underpins Bitcoin transaction validation and spending
 
 ### 🧪 [Wallet Tracker](https://github.com/DinosaurDerek/wallet-tracker)
-A fun, minimal prototype testing Web3 wallet integration.
+A minimal prototype testing Web3 wallet integration.
 Explores EVM chain compatibility and wallet connections with RainbowKit, Wagmi, and Viem.
-
-### 🌟 [Token Dash](https://github.com/DinosaurDerek/token-dash)  
-A simple crypto dashboard that displays token prices using CoinGecko.
-Built as a focused frontend showcase with React and Emotion.
 
 ---
 
