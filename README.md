@@ -6,6 +6,13 @@ Full-stack developer based in Canada with around 10 years building production we
 
 ## 🔧 Projects
 
+### 🧩 [dp-ui](https://github.com/DinosaurDerek/dp-ui)
+A React component library built on a semantic design token architecture. [Live Storybook →](https://dp-ui.vercel.app)
+- Two-layer token system: palette values map to semantic tokens consumed exclusively via CSS custom properties
+- Runtime theme provider writes color tokens to `:root` on mode change, preventing component re-renders on theme switch
+- Accessible primitives: focus trapping, keyboard navigation, ARIA patterns, and FormField composition
+- Built with React, TypeScript, Vite, Tailwind CSS, and Storybook
+
 ### 📘 [Narrative API](https://github.com/DinosaurDerek/narrative-api) 
 A backend API that aggregates topic summaries from mock crypto sources (Farcaster, CoinDesk, Decrypt).
 - Built with Fastify, TypeScript, TypeBox, and a PostgreSQL database using Prisma
